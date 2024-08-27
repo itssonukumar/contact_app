@@ -1,0 +1,125 @@
+.App {
+  text-align: center;
+}
+
+.header{
+  font-weight: 40px;
+  font-size:60px ;
+  border: 2px solid;
+  background-color: red;
+  color: white;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.formheader{
+  margin-left: 12px;
+}
+.add-contact{
+  font-size: 40px;
+  font-weight: 50px;
+  font-family: fantasy;
+  margin-left: 12px;
+  margin-bottom: 20px;
+ 
+}
+.contacts{
+  display: flex;
+  
+  border: 2px solid;
+  background: #fDEFF2;
+  margin-bottom: 10px;
+  margin-left: 5px;
+  font-size: 40px;
+  margin-top: 12px;
+ 
+  
+}
+.email{
+  
+  display: flex;
+
+  border: 2px solid;
+  background: #fDEFF2;
+  
+  margin-top: 12px;
+  margin-left: 5px;
+   font-size: 40px;
+   margin-bottom: 20px;
+   
+  
+  
+}
+.label{
+ font-size:35px ;
+ 
+}
+
+
+.btn{
+  background-color: aqua;
+  color:blue;
+  padding-right: 20px;
+  font-size: 30px;
+  border-radius: 10px;
+  margin-bottom: 50px;
+}
+
+.contact-list{
+font-size: 50px;
+margin-left: 20px;
+
+}
+
+.list{
+
+
+  display: flex;
+  
+  
+  border: 2px solid;
+  background: #fDEFF2;
+  margin-bottom: 10px;
+  margin-left: 5px;
+  font-size: 40px;
+  margin-top: 12px;
+}
+.em{
+
+
+  display: flex;
+
+  background: #fDEFF2;
+  
+  margin-top: px;
+  margin-left:500px ;
+   
+   margin-bottom: 30px;
+   padding-top: 30px;
+}
+.delete-icon{
+  margin-left:850px ;
+ 
+  padding-top: 25px;
+  display: flex;
+  
+}
+body{
+  background-color: rgb(185, 239, 239);
+}
+.na{
+  
+
+  display: flex;
+  
+  
+  background: #fDEFF2;
+  margin-bottom: 12px;
+  margin-left: 1px;
+  font-size: 40px;
+  margin-top: 12px;
+  position: absolute;
+ 
+  
+  
+}
